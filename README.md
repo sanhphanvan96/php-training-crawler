@@ -5,6 +5,7 @@
    ```
 2. Install package
    ```sh
+   cd php-training-crawler
    composer install
    ```
 3. Verify server is running
