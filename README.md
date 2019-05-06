@@ -9,3 +9,5 @@
    ```
 3. Verify server is running
    - Visit http://localhost/php-training-crawler/public/index.php
+
+![pic1](./demo/pic1.png)
